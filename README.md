@@ -39,4 +39,4 @@ I'm **Abbas Madhvaswala**.
 ---
 ### How to reach me
 - 📧 **madhvaswalaabbas@gmail.com**  
-- 💼 LinkedIn: https://linkedin.com/in/abbas-madhvaswala
+- 💼 LinkedIn: https://in.linkedin.com/in/abbas-madhvaswala-11a908230
