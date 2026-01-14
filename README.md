@@ -31,6 +31,12 @@ I'm **Abbas Madhvaswala**.
 
 ---
 
+### Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amsaif523&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&hide_border=true" />
+</p>
+
+---
 ### How to reach me
 - 📧 **madhvaswalaabbas@gmail.com**  
 - 💼 LinkedIn: https://linkedin.com/in/abbas-madhvaswala
