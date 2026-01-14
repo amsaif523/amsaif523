@@ -5,7 +5,7 @@ I'm **Abbas Madhvaswala**.
 
 ---
 
-### 🧠 Languages
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,python,js,ts,go,php,sql" height="60" />
 </p>
@@ -14,7 +14,7 @@ I'm **Abbas Madhvaswala**.
 
 ---
 
-### 🛠️ Technologies & Tools
+### Technologies & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,express,fastapi,react,nextjs,mysql,postgres,mongodb,redis,docker,git,githubactions,linux" height="60" />
 </p>
@@ -23,7 +23,7 @@ I'm **Abbas Madhvaswala**.
 
 ---
 
-### 🚀 What I Work On
+### What I Work On
 - Backend systems and REST API design  
 - Java Spring Boot & Node.js services  
 - Financial workflows and role-based access  
@@ -31,6 +31,6 @@ I'm **Abbas Madhvaswala**.
 
 ---
 
-### 📫 How to reach me
-- 📧 **madhvaswalaabbas5253@gmail.com**  
+### How to reach me
+- 📧 **madhvaswalaabbas@gmail.com**  
 - 💼 LinkedIn: https://linkedin.com/in/abbas-madhvaswala
